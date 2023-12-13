@@ -58,31 +58,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="Resource_5ed6e5f1dbab437583b7ac6f1239724c" xml:space="preserve">
+    <value />
   </data>
-  <data name="DisplayName" xml:space="preserve">
-    <value>Обращение</value>
+  <data name="Control_5ed6e5f1dbab437583b7ac6f1239724c_EmptyText" xml:space="preserve">
+    <value />
   </data>
-  <data name="AccusativeDisplayName" xml:space="preserve">
-    <value>Обращение</value>
+  <data name="Resource_d1edbc0ea00d4491b8b9c893511da014" xml:space="preserve">
+    <value />
   </data>
-  <data name="CollectionDisplayName" xml:space="preserve">
-    <value>Обращения</value>
+  <data name="Resource_f0ededa887754cdfbd68f852ee82711b" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Number" xml:space="preserve">
-    <value>Номер обращения</value>
+  <data name="Control_f0ededa887754cdfbd68f852ee82711b_EmptyText" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Description" xml:space="preserve">
-    <value>Описание</value>
+  <data name="Resource_5ca51f73c1c4483ba3daa370ff0fbf83" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_CreatedDate" xml:space="preserve">
-    <value>Дата создания</value>
+  <data name="Resource_5c1f406d44fd4c8abc65d54192f9f84f" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ответственный</value>
+  <data name="Control_5c1f406d44fd4c8abc65d54192f9f84f_EmptyText" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Index" xml:space="preserve">
-    <value>Индекс</value>
+  <data name="Resource_7c583263d36a4f4d90b849918b89c986" xml:space="preserve">
+    <value />
   </data>
 </root>
